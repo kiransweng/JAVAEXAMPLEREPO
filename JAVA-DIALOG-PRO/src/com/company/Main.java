@@ -27,9 +27,9 @@ public class Main {
                 Main.d.setVisible(false);
             }
         });
-        d.add( new JLabel ("Click button to continue."));
+        d.add( new JLabel ("Message to You - Click button to continue."));
         d.add(b);
-        d.setSize(400,400);
+        d.setSize(500,500);
         d.setVisible(true);
     }
 
